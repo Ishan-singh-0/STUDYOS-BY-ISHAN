@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 StudyOS — Multi-Exam Study Platform (JEE, NEET, UPSC, CAT, GATE, CLAT, SSC, Banking)
-Run: python3 jeeos_v2.py  →  opens at http://localhost:8765
+Run: python3 STUDYOS.py  →  opens at http://localhost:8765
 All data stored in jeeos.db (SQLite)
 """
 import json, os, sys, sqlite3, hashlib, secrets, datetime, base64, io, threading, webbrowser
